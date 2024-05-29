@@ -1,3 +1,3 @@
 ﻿RunAction "Login", oneIteration
-RunAction "BookFlight", "1 - 4"
+RunAction "BookFlight", allIterations
 RunAction "Logout", oneIteration
